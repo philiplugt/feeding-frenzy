@@ -4,9 +4,11 @@ Frenzy was the 2nd project assigned at RIT CS2 course. The project involves the 
 
 The project emphasized the learning of Java threads and GUI programming by way of using the MVC software pattern.
 
-
-![feeding_frenzy](https://github.com/pxv8780/feeding-frenzy/assets/22942635/a45b21d4-4e8e-44b9-b60a-5b35e3cd87c6)
-
+<div align="center">
+    <img width="500" alt="apple_calculator_clone" src="https://github.com/pxv8780/feeding-frenzy/assets/22942635/a45b21d4-4e8e-44b9-b60a-5b35e3cd87c6">
+    <p><sup>A sample Feeding Frenzy game in action</sup></p>
+    <br>
+</div>
 
 ### Versioning
 
