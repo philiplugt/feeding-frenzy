@@ -1,21 +1,17 @@
 # Feeding Frenzy
-
 Frenzy was the 2nd project assigned at RIT CS2 course. The project involves the creation of a GUI game within which a player controlling a grid cell can move around and eat other enemy grid cells. 
 
 The project emphasized the learning of Java threads and GUI programming by way of using the MVC software pattern.
 
 <div align="center">
-    <img width="500" alt="apple_calculator_clone" src="https://github.com/pxv8780/feeding-frenzy/assets/22942635/a45b21d4-4e8e-44b9-b60a-5b35e3cd87c6">
+    <img width="609" alt="feeding_frenzy" src="https://github.com/pxv8780/feeding-frenzy/assets/22942635/9d6bfb9f-60d1-4b91-a24f-80de43d23aa8">
     <p><sup>A sample Feeding Frenzy game in action</sup></p>
-    <br>
 </div>
 
 ### Versioning
-
 Successfully tested and run on Java SE 17 (2023-12-19)
 
 ### How to use
-
 Compile all the files in the `source` folder with `javac *.java`
 
 Run as `java FrenzyLauncher [N]`
@@ -23,7 +19,6 @@ Run as `java FrenzyLauncher [N]`
 Optional argument `N` will determine the number of grid cells per row/colummn. Default is 15.
 
 ### Details
-
 The design (dependency graph) of Frenzy is found in the `graph` folder. The graph can be loaded on the draw.io website. Or you can view the .png file directly. 
 
 For extra context, the original assignment write up is in the `assignment` folder. There are 2 files, one from Q2 2008 and one from Q2 2007. The 2008 version is the original version that I was assigned in class. However, the 2007 is a more comprehensive version, which also has extra implementation instructions. Apparently, 2007 version was a 2-man project, but due to difficulty level it is likely the professors simplified it a year later.
