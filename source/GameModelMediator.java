@@ -7,12 +7,12 @@
 
 interface GameModelMediator {
 
-	public int getGameSize();
+    public int getGameSize();
 
-	public int getGameSpeed();
+    public int getGameSpeed();
 
-	public boolean getGamePaused();
+    public boolean getGamePaused();
 
-	public void moveEnemy(Enemy enemy);
+    public void moveEnemy(Enemy enemy);
 
 }
